@@ -1,8 +1,10 @@
 # Compiled class file
 *.class
 
-# Log file
-*.log
+# Log file (we allow them now since this is a repo for log files and the
+# chances of having .log files is sort of high even if there aren't any
+# any right now)
+# *.log
 
 # BlueJ files
 *.ctxt
