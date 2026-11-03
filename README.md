@@ -3,7 +3,7 @@ Log files for competition and selected practices
 Structure is:
 
 * competition
-    * competition name ("ILCH" for example)
+    * competition name ("ILCH" for example - the event will provide a name)
       * match ID ("ILCH_q16" for qualification match #16 - other prefixes will be "P" for practice and "E" for the finals)
       * individual logs - from robot and DS
       
